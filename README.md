@@ -1,4 +1,4 @@
-# The-C-Programming-Language-Book-Excersizes
+# the-c-programming-language-book-excersizes
 just my answers to the excersizes; i will be uploading as i go through as a way to learn programming and navigate github 
 
 open to feedback/advice for learning 
